@@ -14,4 +14,4 @@ My Portfolio website
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
